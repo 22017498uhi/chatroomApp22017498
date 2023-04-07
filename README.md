@@ -7,3 +7,5 @@ To start the app:
 cd chatroom
 npm start
 ```
+
+## Firebase
